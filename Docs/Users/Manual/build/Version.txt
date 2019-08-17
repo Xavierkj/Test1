@@ -1,0 +1,19 @@
+WinMerge Manual Build Tools
+---------------------------
+
+This package use parts from the following projects:
+
+* DocBook 4.5 XML DTD
+  http://www.docbook.org/xml/4.5/
+
+* DocBook XSL 1.74.0
+  http://docbook.sourceforge.net/
+
+* Saxon 6.5.5
+  http://saxon.sourceforge.net/
+
+* Xerces2 Java Parser 2.9.1
+  http://xerces.apache.org/xerces2-j/
+
+* Microsoft HTML Help Workshop
+  http://msdn.microsoft.com/en-us/library/ms669985.aspx

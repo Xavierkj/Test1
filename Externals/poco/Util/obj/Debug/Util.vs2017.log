@@ -1,0 +1,5 @@
+﻿  AbstractConfiguration.cpp
+  ConfigurationMapper.cpp
+  ConfigurationView.cpp
+  IniFileConfiguration.cpp
+  Util.vs2017.vcxproj -> C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Externals\poco\Util\..\lib\PocoUtilmtd.lib

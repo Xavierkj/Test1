@@ -1,0 +1,6 @@
+repo: 25965ff41d5b945363507a2c8c9fa2256d5fff6e
+node: 7f942c2161033fbfc73494508aace57c53d82cf1
+branch: 3way-diff-gplv2
+latesttag: 0.10904.2017
+latesttagdistance: 2
+changessincelatesttag: 44

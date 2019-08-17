@@ -1,0 +1,85 @@
+﻿  Performing Custom Build Tools
+          1 file(s) moved.
+  Microsoft (R) Windows Script Host Version 5.812
+  Copyright (C) Microsoft Corporation. All rights reserved.
+  
+  Creating POT file from Merge.rc...
+  POT file created, after 25 second(s).
+  Comparing files English.pot.flt and ENGLISH.POT.PREV.FLT
+  FC: no differences encountered
+  
+          1 file(s) copied.
+  Microsoft (R) Windows Script Host Version 5.812
+  Copyright (C) Microsoft Corporation. All rights reserved.
+  
+  Updating PO files from POT file...
+  Basque.po
+  Brazilian.po
+  Bulgarian.po
+  Catalan.po
+  ChineseSimplified.po
+  ChineseTraditional.po
+  Croatian.po
+  Czech.po
+  Danish.po
+  Dutch.po
+  Finnish.po
+  French.po
+  Galician.po
+  German.po
+  Greek.po
+  Hungarian.po
+  Italian.po
+  Japanese.po
+  Korean.po
+  Lithuanian.po
+  Norwegian.po
+  Persian.po
+  Polish.po
+  Portuguese.po
+  Romanian.po
+  Russian.po
+  Serbian.po
+  Sinhala.po
+  Slovak.po
+  Slovenian.po
+  Spanish.po
+  Swedish.po
+  Turkish.po
+  Ukrainian.po
+  All PO files updated, after 372 second(s).
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Basque.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Brazilian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Bulgarian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Catalan.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\ChineseSimplified.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\ChineseTraditional.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Croatian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Czech.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Danish.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Dutch.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Finnish.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\French.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Galician.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\German.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Greek.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Hungarian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Italian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Japanese.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Korean.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Lithuanian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Norwegian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Persian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Polish.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Portuguese.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Romanian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Russian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Serbian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Sinhala.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Slovak.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Slovenian.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Spanish.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Swedish.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Turkish.po
+  C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\..\Translations\WinMerge\Ukrainian.po
+         34 file(s) copied.

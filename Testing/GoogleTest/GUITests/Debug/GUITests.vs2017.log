@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  gtest-all.cc
+  DirFrameTest.cpp
+  GUITestUtils.cpp
+  MainFrameTest.cpp
+  OptionsDialogTest.cpp
+  test_main.cpp
+  GUITests.vs2017.vcxproj -> C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Testing\GoogleTest\GUITests\.\GUITests.exe

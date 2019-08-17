@@ -1,0 +1,284 @@
+﻿  pch.cpp
+  StdAfx.cpp
+  asp.cpp
+  basic.cpp
+  batch.cpp
+  ccrystaleditview.cpp
+  ccrystaltextbuffer.cpp
+  ccrystaltextmarkers.cpp
+  ccrystaltextview.cpp
+  ccrystaltextview2.cpp
+  ceditreplacedlg.cpp
+  cfindtextdlg.cpp
+  chcondlg.cpp
+  cplusplus.cpp
+  cregexp_poco.cpp
+  crystaleditviewex.cpp
+  crystalparser.cpp
+  crystaltextblock.cpp
+  cs2cs.cpp
+  csharp.cpp
+  css.cpp
+  ctextmarkerdlg.cpp
+  dcl.cpp
+  filesup.cpp
+  fortran.cpp
+  fpattern.cpp
+  go.cpp
+  gotodlg.cpp
+  html.cpp
+  ini.cpp
+  innosetup.cpp
+  is.cpp
+  java.cpp
+  LineInfo.cpp
+  lisp.cpp
+  lua.cpp
+  memcombo.cpp
+  nsis.cpp
+  pascal.cpp
+  perl.cpp
+  php.cpp
+  plain.cpp
+  po.cpp
+  powershell.cpp
+  python.cpp
+  registry.cpp
+  rexx.cpp
+  rsrc.cpp
+  ruby.cpp
+  rust.cpp
+  sgml.cpp
+  sh.cpp
+  siod.cpp
+  sql.cpp
+  statbar.cpp
+  SyntaxColors.cpp
+  tcl.cpp
+  tex.cpp
+  UndoRecord.cpp
+  verilog.cpp
+  vhdl.cpp
+  ViewableWhitespace.cpp
+  wcwidth.cpp
+  xml.cpp
+  7zCommon.cpp
+  AboutDlg.cpp
+  BCMenu.cpp
+  Bitmap.cpp
+  MergeFrameCommon.cpp
+  MergeEditFrm.cpp
+  CMoveConstraint.cpp
+  ColorButton.cpp
+  CompareStatisticsDlg.cpp
+  ConfirmFolderCopyDlg.cpp
+  DropHandler.cpp
+  ImgMergeFrm.cpp
+  MergeEditSplitterView.cpp
+  MergeStatusBar.cpp
+  DiffTextBuffer.cpp
+  DiffViewBar.cpp
+  DirCmpReport.cpp
+  DirCmpReportDlg.cpp
+  DirColsDlg.cpp
+  DirCompProgressBar.cpp
+  DirDoc.cpp
+  DirFrame.cpp
+  DirView.cpp
+  dllpstub.cpp
+  EditorFilepathBar.cpp
+  EncodingErrorBar.cpp
+  FileActionScript.cpp
+  FileFiltersDlg.cpp
+  FilepathEdit.cpp
+  GhostTextBuffer.cpp
+  GhostTextView.cpp
+  HexMergeDoc.cpp
+  HexMergeFrm.cpp
+  HexMergeView.cpp
+  LanguageSelect.cpp
+  LineFiltersDlg.cpp
+  LoadSaveCodepageDlg.cpp
+  LocationBar.cpp
+  LocationView.cpp
+  MainFrm.cpp
+  MDITabBar.cpp
+  Merge.cpp
+  MergeApp.cpp
+  MergeDoc.cpp
+  MergeDocDiffSync.cpp
+  MergeDocEncoding.cpp
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\src\projectfile.h(202): warning C4459: declaration of 'files' hides global declaration (compiling source file Merge.cpp)
+  c:\users\sensd\downloads\winmerge-2.16.4-full-src\src\diffutils\src\diff.h(304): note: see declaration of 'files' (compiling source file Merge.cpp)
+  MergeDocLineDiffs.cpp
+  MergeEditView.cpp
+  MessageBoxDialog.cpp
+  OpenDoc.cpp
+  OpenFrm.cpp
+  OpenView.cpp
+  OptionsPanel.cpp
+  PatchDlg.cpp
+  PatchTool.cpp
+  PluginsListDlg.cpp
+  PreferencesDlg.cpp
+  PropArchive.cpp
+  PropBackups.cpp
+  PropCodepage.cpp
+  PropColors.cpp
+  PropCompare.cpp
+  PropCompareBinary.cpp
+  PropCompareFolder.cpp
+  PropCompareImage.cpp
+  PropDirColors.cpp
+  PropEditor.cpp
+  PropertyPageHost.cpp
+  PropGeneral.cpp
+  PropMarkerColors.cpp
+  PropRegistry.cpp
+  PropShell.cpp
+  PropSyntaxColors.cpp
+  PropTextColors.cpp
+  SaveClosingDlg.cpp
+  scbarcf.cpp
+  scbarg.cpp
+  SelectUnpackerDlg.cpp
+  SharedFilterDlg.cpp
+  sizecbar.cpp
+  SortHeaderCtrl.cpp
+  SplitterWndEx.cpp
+  SuperComboBox.cpp
+  Test.cpp
+  TestFilterDlg.cpp
+  TestMain.cpp
+  TrDialogs.cpp
+  WMGotoDlg.cpp
+  string_util.cpp
+  xdiffi.c
+  xemit.c
+  xhistogram.c
+  xmerge.c
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xhistogram.c(116): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xhistogram.c(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xhistogram.c(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xemit.c(84): warning C4018: '>': signed/unsigned mismatch
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xdiffi.c(951): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xdiffi.c(372): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xdiffi.c(330): warning C4706: assignment within conditional expression
+  xpatience.c
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xhistogram.c(275): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xhistogram.c(281): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xhistogram.c(287): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xhistogram.c(148): warning C4706: assignment within conditional expression
+  xprepare.c
+  xutils.c
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xmerge.c(168): warning C4706: assignment within conditional expression
+  charsets.c
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xpatience.c(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xutils.c(187): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xutils.c(189): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xutils.c(413): warning C4018: '>': signed/unsigned mismatch
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(181): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(189): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(201): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(205): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(218): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(222): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(224): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(81): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(89): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(391): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(126): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xprepare.c(133): warning C4706: assignment within conditional expression
+  lwdisp.c
+  analyze.c
+  cmpbuf.c
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xutils.c(108): warning C4706: assignment within conditional expression
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\externals\xdiff\xutils.c(109): warning C4706: assignment within conditional expression
+  context.c
+  ed.c
+  GnuVersion.c
+  ifdef.c
+  io.c
+  normal.c
+  side.c
+  util.c
+  ClipBoard.cpp
+  codepage_detect.cpp
+  ExConverter.cpp
+  BinaryCompare.cpp
+  CompareOptions.cpp
+  CompareStats.cpp
+  ConfigLog.cpp
+  ConflictFileParser.cpp
+  coretools.cpp
+  Merge7zFormatMergePluginImpl.cpp
+  Merge7zFormatShellImpl.cpp
+  OptionsDef.cpp
+  OptionsCustomColors.cpp
+  DiffContext.cpp
+  DiffFileData.cpp
+  DiffFileInfo.cpp
+  DiffItem.cpp
+  DiffItemList.cpp
+  DiffList.cpp
+  DiffThread.cpp
+  DiffWrapper.cpp
+  DirActions.cpp
+  DirItem.cpp
+  DirScan.cpp
+  DirTravel.cpp
+  DirViewColItems.cpp
+  Environment.cpp
+  FileFilter.cpp
+  FileFilterHelper.cpp
+  FileFilterMgr.cpp
+  FileOrFolderSelect.cpp
+  FileTextEncoding.cpp
+  FileTransform.cpp
+  FileVersion.cpp
+  FilterCommentsManager.cpp
+  FilterList.cpp
+  FolderCmp.cpp
+  JumpList.cpp
+  LineFiltersList.cpp
+  locality.cpp
+  markdown.cpp
+  MergeCmdLineInfo.cpp
+  MovedBlocks.cpp
+  MovedLines.cpp
+  multiformatText.cpp
+  OptionsDiffColors.cpp
+  OptionsDiffOptions.cpp
+  OptionsDirColors.cpp
+  OptionsFont.cpp
+  OptionsInit.cpp
+  OptionsMgr.cpp
+  OptionsSyntaxColors.cpp
+  PatchHTML.cpp
+  PathContext.cpp
+  paths.cpp
+  PidlContainer.cpp
+  PluginManager.cpp
+  Plugins.cpp
+  ProjectFile.cpp
+  RegKey.cpp
+  RegOptionsMgr.cpp
+  ShellContextMenu.cpp
+  ShellFileOperations.cpp
+  stringdiffs.cpp
+  TempFile.cpp
+  unicoder.cpp
+  UnicodeString.cpp
+  UniFile.cpp
+  UniMarkdownFile.cpp
+  varprop.cpp
+  VersionInfo.cpp
+  Diff.cpp
+  mystat.cpp
+  ByteComparator.cpp
+  ByteCompare.cpp
+  Wrap_DiffUtils.cpp
+  TimeSizeCompare.cpp
+  xdiff_gnudiff_compat.cpp
+c:\users\sensd\downloads\winmerge-2.16.4-full-src\src\xdiff_gnudiff_compat.cpp(16): warning C4244: 'initializing': conversion from '__int64' to 'size_t', possible loss of data
+  Merge.vs2017.vcxproj -> C:\Users\sensd\Downloads\winmerge-2.16.4-full-src\Src\.\..\Build\Debug\WinMergeU.exe
